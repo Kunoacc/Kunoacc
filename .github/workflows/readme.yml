@@ -2,7 +2,8 @@ name: Update readme
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    # UTC 7:00 AM = PDT 12:00 AM daily
+    - cron: '0 7 * * *'
   workflow_dispatch:
 
 jobs:
