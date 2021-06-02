@@ -28,7 +28,7 @@ jobs:
         with:
           author_name: Cyrus Goh
           author_email: hello@lovincyrus.com
-          message: 'Auto updating my readme'
+          message: 'Bump daily readme'
           add: '*.svg'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
