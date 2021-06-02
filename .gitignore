@@ -6,3 +6,4 @@ dist-ssr
 .vercel
 .envrc
 *.env
+yarn-error.log
