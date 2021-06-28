@@ -276,7 +276,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in San Francisco, CA where it’s supposed to be</text>
-    <text x="15" y="50">64° F (18° C) and <tspan class="emoji">🌤</tspan> today.</text>
+    <text x="15" y="50">61° F (16° C) and <tspan class="emoji">🌤</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -301,7 +301,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Frontend engineer at Tendermint / Cosmos</text>
-    <text x="15" y="50">for about over 1 year now.</text>
+    <text x="15" y="50">for about almost 2 years now.</text>
   </g>
 
   <!-- typing 4 -->
@@ -376,6 +376,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="240" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Sunday!</text>  
+    <text x="15" y="27">Have a great Monday!</text>  
   </g>
 </svg>
