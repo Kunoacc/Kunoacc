@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/lovincyrus/lovincyrus/main/chat.svg)](https://twitter.com/_cyrusgoh)
+[![](https://raw.githubusercontent.com/Kunoacc/Kunoacc/main/chat.svg)](https://twitter.com/blvckcoder)
