@@ -26,8 +26,8 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: Cyrus Goh
-          author_email: hello@lovincyrus.com
+          author_name: Nelson Nelson-Atuonwu
+          author_email: nelson@nelsonatuonwu.me
           message: 'Bump daily readme'
           add: '*.svg'
         env:
