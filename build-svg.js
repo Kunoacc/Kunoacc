@@ -38,13 +38,13 @@ const emojis = {
   32: '🥶',
 }
 
-// Time working at PlanetScale
+// Time working as a Frontend Engineer
 const today = new Date()
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
 
-const psTime = formatDistance(new Date(2019, 08, 28), today, {
+const psTime = formatDistance(new Date(2018, 01, 01), today, {
   addSuffix: false,
 })
 
